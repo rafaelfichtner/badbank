@@ -1,7 +1,7 @@
 # Bank application
 
 ## About The Project
-Hello
+A 3-tier application exercise from MIT xPRO Full Stack Development course. It simulates the basic functionalities of a bank app (login, deposit/withdraw and account balance).
 
 #### Technology Stack
 * [Firebase authentication](https://firebase.google.com/)
