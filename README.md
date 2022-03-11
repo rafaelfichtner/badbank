@@ -1,2 +1,2 @@
-# badbank
+# Bank application
 Bank app
