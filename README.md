@@ -13,9 +13,11 @@ Hello
 
 #### Features
 
-* TBD
-* TBD
-* TBD
+* Create account: creates a new account
+* Login: login in a user account
+* Deposit/Withdraw: deposit/withdraw money into/from the user's account
+* Balance: displays account balance
+* All data: show all user's data - restricted to bank's admin users
 
 ### Screenshot
 ![badbank-screenshot](bank-application.png)
@@ -38,7 +40,7 @@ To run locally on your machine:
    ```
 4. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
 
-
+.
 ## MIT License
 Copyright (c) 2021 <em>Rafael Fichtner</em>
 
