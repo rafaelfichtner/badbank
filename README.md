@@ -21,7 +21,23 @@ Hello
 ![badbank-screenshot](bank-application.png)
 
 ## How To Run
-Hello
+A live version on AWS is available at this <a href="http://rafael-fichtner-bankingapplication.s3-website.us-east-2.amazonaws.com/#/">link</a>.
+To run locally on your machine:
+1. Clone the repo
+   ```sh
+   git clone https://github.com/rafaelfichtner/badbank
+   ```
+   
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the Node server
+   ```sh
+   node index.js
+   ```
+4. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
+
 
 ## MIT License
 Copyright (c) 2021 <em>Rafael Fichtner</em>
