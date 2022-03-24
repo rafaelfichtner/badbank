@@ -3,12 +3,13 @@
 ## About The Project
 A 3-tier application exercise from MIT xPRO Full Stack Development course. It simulates the basic functionalities of a bank app (login, deposit/withdraw and account balance).
 
-#### Technology Stack
-* [Firebase authentication](https://firebase.google.com/)
+#### Technology Stack (MERN)
+* [MongoDB](https://www.mongodb.com/)
+* [Express](https://expressjs.com/)
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Docker](https://www.docker.com/)
-* [MongoDB](https://www.mongodb.com/)
+* [Firebase authentication](https://firebase.google.com/) 
 * [Bootstrap](https://getbootstrap.com/)
 
 #### Features
